@@ -34,6 +34,20 @@ El departamento de transporte de una gran ciudad enfrenta una crisis: aumento al
 - Matplotlib, Seaborn
 - Google Colab
 
+## Visualizaciones principales
+
+### Distribución de víctimas por modo
+![Conteo por modo](01_conteo_modo.png)
+
+### Tasa de mortalidad por modo
+![Tasa mortalidad](02_tasa_mortalidad_modo.png)
+
+### Perfil etario de motociclistas
+![Edad motos](03_edad_motos.png)
+
+### Mapa de densidad de siniestros de moto
+![Mapa motos](04_mapa_motos.png)
+
 ## Habilidades demostradas
 
 - Limpieza de datos categóricos y numéricos sucios.
